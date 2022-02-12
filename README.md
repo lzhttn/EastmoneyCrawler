@@ -4,7 +4,7 @@
 依赖：selenium 3<br>
 
 ## 使用方法<br>
-直接运行ReportCrawler.py<br>
+直接运行main.py<br>
 
 ## 函数说明<br>
 1. 下载前50页的股票研究报告<br>
